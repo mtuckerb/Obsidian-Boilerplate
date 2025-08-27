@@ -1,0 +1,30 @@
+{
+  "alwaysOpen": true,
+  "daily": {
+    "available": true,
+    "enabled": true,
+    "closeExisting": true,
+    "openAndPin": true,
+    "excludeWeekends": false
+  },
+  "weekly": {
+    "enabled": true,
+    "closeExisting": true,
+    "openAndPin": false
+  },
+  "monthly": {
+    "enabled": false,
+    "closeExisting": false,
+    "openAndPin": false
+  },
+  "quarterly": {
+    "enabled": false,
+    "closeExisting": false,
+    "openAndPin": false
+  },
+  "yearly": {
+    "enabled": false,
+    "closeExisting": false,
+    "openAndPin": false
+  }
+}

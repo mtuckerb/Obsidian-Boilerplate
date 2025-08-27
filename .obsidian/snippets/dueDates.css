@@ -1,0 +1,14 @@
+.due {
+  padding: 4px;
+  width: 110%;
+  display: block;
+  text-align: center;
+}
+.due.one_week {
+  background-color:  #FF9196;
+}
+.due.two_weeks {
+  background-color:  #FFF9BB
+}
+
+

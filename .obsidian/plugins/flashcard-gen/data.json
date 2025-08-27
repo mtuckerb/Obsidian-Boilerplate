@@ -1,0 +1,360 @@
+{
+  "selectedOllamaModel": "krith/qwen2.5-72b-instruct:IQ1_M",
+  "ollamaModels": [
+    {
+      "name": "deepseek-r1:32b",
+      "model": "deepseek-r1:32b",
+      "modified_at": "2025-02-09T15:45:02.480457476Z",
+      "size": 19851337640,
+      "digest": "38056bbcbb2d068501ecb2d5ea9cea9dd4847465f1ab88c4d4a412a9f7792717",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "32.8B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "name": "all-minilm:latest",
+      "model": "all-minilm:latest",
+      "modified_at": "2025-01-07T21:36:17.638628012Z",
+      "size": 45960996,
+      "digest": "1b226e2802dbb772b5fc32a58f103ca1804ef7501331012de126ab22f67475ef",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "bert",
+        "families": [
+          "bert"
+        ],
+        "parameter_size": "23M",
+        "quantization_level": "F16"
+      }
+    },
+    {
+      "name": "krith/qwen2.5-32b-instruct:IQ1_M",
+      "model": "krith/qwen2.5-32b-instruct:IQ1_M",
+      "modified_at": "2024-12-19T01:20:17.829861113Z",
+      "size": 7932174258,
+      "digest": "5b23cd19815ded975a904138416fb6b39bc8e1b9e9bad87c8791739040498a1e",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "32.8B",
+        "quantization_level": "BF16"
+      }
+    },
+    {
+      "name": "qwen2.5:14b",
+      "model": "qwen2.5:14b",
+      "modified_at": "2024-12-19T01:07:07.813852177Z",
+      "size": 8988124069,
+      "digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "14.8B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "name": "krith/qwen2.5-72b-instruct:IQ1_M",
+      "model": "krith/qwen2.5-72b-instruct:IQ1_M",
+      "modified_at": "2024-12-18T20:12:09.182091498Z",
+      "size": 23740221893,
+      "digest": "10a9eca467eff358c1e9fb85793558c1ebda385ff3bde415b10840d92cad243e",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "72.7B",
+        "quantization_level": "BF16"
+      }
+    },
+    {
+      "name": "nomic-embed-text:latest",
+      "model": "nomic-embed-text:latest",
+      "modified_at": "2024-12-17T22:53:40.476634904Z",
+      "size": 274302450,
+      "digest": "0a109f422b47e3a30ba2b10eca18548e944e8a23073ee3f3e947efcf3c45e59f",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "nomic-bert",
+        "families": [
+          "nomic-bert"
+        ],
+        "parameter_size": "137M",
+        "quantization_level": "F16"
+      }
+    },
+    {
+      "name": "tazarov/all-minilm-l6-v2-f32:latest",
+      "model": "tazarov/all-minilm-l6-v2-f32:latest",
+      "modified_at": "2024-12-16T11:30:55.503157235Z",
+      "size": 91017428,
+      "digest": "5828eca1915b4fe9cbc0cbb8f6215507801d5bee135ba3ac226f98e3bd123d31",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "bert",
+        "families": [
+          "bert"
+        ],
+        "parameter_size": "23M",
+        "quantization_level": "F32"
+      }
+    },
+    {
+      "name": "qwen2.5-coder:32b",
+      "model": "qwen2.5-coder:32b",
+      "modified_at": "2024-11-24T02:17:45.224504072Z",
+      "size": 19851349856,
+      "digest": "4bd6cbf2d094264457a17aab6bd6acd1ed7a72fb8f8be3cfb193f63c78dd56df",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "32.8B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "name": "command-r:latest",
+      "model": "command-r:latest",
+      "modified_at": "2024-11-10T10:56:24.208032121Z",
+      "size": 18719506654,
+      "digest": "7d96360d357f979f63a2be43d5bde200bfcbead950a4072e805d2196ae589aaa",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "command-r",
+        "families": [
+          "command-r"
+        ],
+        "parameter_size": "32.3B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "name": "llama3.2-vision:latest",
+      "model": "llama3.2-vision:latest",
+      "modified_at": "2024-11-10T10:49:59.059472369Z",
+      "size": 7901829417,
+      "digest": "38107a0cd11910a31c300fcfd1e9a107b2928e56ebabd14598702170b004773e",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "mllama",
+        "families": [
+          "mllama",
+          "mllama"
+        ],
+        "parameter_size": "9.8B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "name": "mistral-nemo:12b-instruct-2407-q2_K",
+      "model": "mistral-nemo:12b-instruct-2407-q2_K",
+      "modified_at": "2024-11-09T17:10:51.364478886Z",
+      "size": 4791060432,
+      "digest": "afa0d9b8759fd199be0c738bd56a9e6bd4f1eba82480c52652ee239c7dbdd074",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "12.2B",
+        "quantization_level": "Q2_K"
+      }
+    },
+    {
+      "name": "mistral-nemo:12b-instruct-2407-q4_K_S",
+      "model": "mistral-nemo:12b-instruct-2407-q4_K_S",
+      "modified_at": "2024-11-09T16:30:55.287503239Z",
+      "size": 7120209874,
+      "digest": "2c2b8e074f092067be48d69d973cd830da618938a329304a231de09b23f27a58",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "12.2B",
+        "quantization_level": "Q4_K_S"
+      }
+    },
+    {
+      "name": "llama3.1:70b-instruct-fp16",
+      "model": "llama3.1:70b-instruct-fp16",
+      "modified_at": "2024-11-02T19:39:52.667449009Z",
+      "size": 141117931918,
+      "digest": "80d34437631f0f4338b989e74b55c1c138dfb704e76997473e735317a12b80b1",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "70.6B",
+        "quantization_level": "F16"
+      }
+    },
+    {
+      "name": "llama3.1:8b-instruct-fp16",
+      "model": "llama3.1:8b-instruct-fp16",
+      "modified_at": "2024-11-02T18:21:18.188821379Z",
+      "size": 16068910253,
+      "digest": "4aacac4194543ff7f70dab3f2ebc169c132d5319bb36f7a7e99c4ff525ebcc09",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "8.0B",
+        "quantization_level": "F16"
+      }
+    },
+    {
+      "name": "llama3.2:3b",
+      "model": "llama3.2:3b",
+      "modified_at": "2024-11-02T18:19:09.070058289Z",
+      "size": 2019393189,
+      "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "3.2B",
+        "quantization_level": "Q4_K_M"
+      }
+    },
+    {
+      "name": "llama3.1:8b",
+      "model": "llama3.1:8b",
+      "modified_at": "2024-11-02T18:19:08.509055168Z",
+      "size": 4661230766,
+      "digest": "42182419e9508c30c4b1fe55015f06b65f4ca4b9e28a744be55008d21998a093",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "8.0B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "name": "llama3.1:405b",
+      "model": "llama3.1:405b",
+      "modified_at": "2024-11-02T18:19:07.289048385Z",
+      "size": 228856439568,
+      "digest": "65fa6b82bfda9c8ae0b73bd59958eff59f86440d34444116f2a0f8616646b647",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "405.9B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "name": "llama3.1:70b",
+      "model": "llama3.1:70b",
+      "modified_at": "2024-11-02T18:19:07.857051544Z",
+      "size": 39969751439,
+      "digest": "c0df3564cfe84c762092864d37bf9b28276a7d283895242588ffcc7582c98f02",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "70.6B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "name": "gemma2:latest",
+      "model": "gemma2:latest",
+      "modified_at": "2024-11-02T18:19:06.852045961Z",
+      "size": 5443152417,
+      "digest": "ff02c3702f322b9e075e9568332d96c0a7028002f1a5a056e0a6784320a4db0b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "gemma2",
+        "families": [
+          "gemma2"
+        ],
+        "parameter_size": "9.2B",
+        "quantization_level": "Q4_0"
+      }
+    },
+    {
+      "name": "dolphin-mixtral:latest",
+      "model": "dolphin-mixtral:latest",
+      "modified_at": "2024-11-02T18:19:06.345043148Z",
+      "size": 26441556600,
+      "digest": "cfada4ba31c706daf694d70a9d4c79cb617742d9189b530db55c138d1c966e46",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "llama",
+        "families": [
+          "llama"
+        ],
+        "parameter_size": "47B",
+        "quantization_level": "Q4_0"
+      }
+    }
+  ],
+  "useLocalLLM": true,
+  "api_key": "",
+  "engine": "gpt-3.5-turbo",
+  "max_tokens": 1000,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "prompt": "",
+  "system_prompt": "You are a quiz generator, you will be feed an input with the flags [INPUT] and you will give sets\n of question/answer for anki cards based uniquely on this input in the following json format:\n \" [OUTPUT]{\"Questions\" : [{ \"key_info\" : \"The obitore are a community from the south west of asia that are selling erasers\",\n\t\n\"question\" : \"What are the obitore ? \",\n\t\n\"answer\" : \"A community from the south west of asia know for selling erasers.\",\n\t\n\"quote\" : \"The obitore are a community from the south west of asia that are selling erasers[...] (line 4)\"}, ... ]} }\".\n\tThe key_info property must be a quote from the [INPUT] text.\n\tIf you ask a question that depends on a specific context/conditions, precise it in the question.\n   In a json, the attribute name MUST be '\"' and not '''. All the questions must have their response in the input text,\n    don't add additional information but try having elaborate answers (you are allowed to rephrase). \n\tForget every exterior knowledge. Note that the [INPUT] is written in a markdown format, hence the OUTPUT.answers \n\thave to be compatible to markdown. If there are not enough information in the token return an empty json.",
+  "n_questions": 7,
+  "prune": false,
+  "showStatusBar": true,
+  "outputToBlockQuote": false,
+  "promptsPath": "textgenerator/prompts",
+  "displayErrorInEditor": false
+}

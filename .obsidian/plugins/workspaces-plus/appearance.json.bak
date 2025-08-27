@@ -1,0 +1,18 @@
+{
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "scrollable-callout",
+    "navigation",
+    "highlight"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "#8cc08f",
+  "interfaceFontFamily": "Avenir,CodeNewRoman Nerd Font",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "CodeNewRoman Nerd Font",
+  "baseFontSizeAction": true,
+  "baseFontSize": 20,
+  "theme": "moonstone"
+}

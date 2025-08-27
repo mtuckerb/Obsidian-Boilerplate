@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9944ed2251cfc856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cea7f4476d2c2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supporting/Templates/2.2 Course Homepage.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Course Homepage"
+            }
+          },
+          {
+            "id": "d6ad4c63dcb2d940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supporting/Templates/5.2 Person.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5.2 Person"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cdd197a5b5bc372",
+    "type": "split",
+    "children": [
+      {
+        "id": "f87c543c2f76d3a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ead17f393aad73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65c47159ebbd296d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63d0d08a9f52e058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 532.5
+  },
+  "right": {
+    "id": "bbf2011075432a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd61f1eef189f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3614ae48c6a67f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 5/SocialPsychology - Chapter 5 - Notes.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SocialPsychology - Chapter 5 - Notes.md"
+            }
+          },
+          {
+            "id": "a70c3e88de3d0d1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-18"
+            }
+          },
+          {
+            "id": "fd0c6977683485b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "661a888151f4cb05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cff432730e5e194",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c36997a7b05aa5ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "10b77064b68f2719",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "58413cd761ae1d88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Supporting/Templates/5.2 Person.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5.2 Person"
+            }
+          },
+          {
+            "id": "ed6c43d780f322f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Supporting/Templates/2.2 Course Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2.2 Course Homepage"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "33ead17f393aad73",
+  "lastOpenFiles": [
+    "Supporting/Templates/5.3 Organization.md",
+    "2025/08/27/2025-08-27 - Wednesday.md",
+    "Supporting/Templates/2.2 Course Homepage.md",
+    "2025/08/28/Attachments",
+    "2025/08/28",
+    "2025/08/27",
+    "2025/08",
+    "2025",
+    "Supporting/Templates/2.2 Create Chapter.md",
+    "Supporting/Templates/10. Base.md",
+    "Supporting/Templates/2.1 Create Module.md",
+    "2025/Fall/PSY-101/PSY-101.md",
+    "2025/Fall/PSY-101/Attachments",
+    "2025/Fall/PSY-101",
+    "2025/Fall",
+    "Supporting/Templates/1.3 New Note.md",
+    "Supporting/Templates/1. New Meeting.md",
+    "2025/Fall/PSY-101 - Intro to Psych/PSY-101 - Intro to Psych.md",
+    "2025/Fall/PSY-101 - Intro to Psych/Attachments",
+    "2025/Fall/PSY-101 - Intro to Psych",
+    "Supporting/Attachments/Pasted image 20250827064257.png",
+    "Supporting/Attachments/Pasted image 20250827064252.png",
+    "Supporting/Attachments/Pasted image 20250827064250.png",
+    "README.md.md",
+    "Fall/PSY-101/PSY-101.md",
+    "Supporting/Templates/10.1 ToDos.md",
+    "Supporting/Cards/Cards.md",
+    "Supporting/Cards/Focus Heatmap.md",
+    "Supporting/Cards/Mood Heatmap.md",
+    "Supporting/Attachments/Untitled.md",
+    "2025/08/27/Meetings/2025-08-27 - test.md",
+    "pininfo.md",
+    "Supporting/Attachments/Basic 2 Steps Portrait 2025-08-27_06-26-04 1.png",
+    "Supporting/Attachments/Pasted image 20250827055327.png",
+    "Attachments/Basic 2 Steps Portrait 2025-08-27_06-26-04.png",
+    "Supporting/Attachments/2025-08-27_05-56-24.png",
+    "Supporting/Templates/1.5 Daily Note.md",
+    "Supporting/Templates.md",
+    "Update the plugins.md",
+    "Supporting/Templates/11. Embed Excalidraw.md",
+    "Supporting/Excalidraw/Scripts/Downloaded/Attachments/87d159f45097f50889c58066f82decfb_MD5.png",
+    "Supporting/Excalidraw/Scripts/Downloaded/Attachments/2dfcbe4a13c698baaf9b92f6016889e6_MD5.jpg",
+    "Supporting/Cards/OCI.md",
+    "Supporting/BRAT-log.md",
+    "Supporting/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Untitled.canvas",
+    "Divorce/Motion to Modify 2024-06-27/Motion to Modify - Exhibit Preparation.canvas",
+    "Divorce/Motion to Modify 2024-06-27/2025-03-13 - DESR Case.canvas"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "properties": {
+    "address": {
+      "frontmatterKey": "address",
+      "enabled": true
+    },
+    "lat": {
+      "frontmatterKey": "lat",
+      "enabled": true
+    },
+    "lng": {
+      "frontmatterKey": "lng",
+      "enabled": true
+    },
+    "location": {
+      "frontmatterKey": "location",
+      "enabled": false
+    },
+    "map_link": {
+      "frontmatterKey": "map_link",
+      "enabled": true
+    },
+    "map_view_link": {
+      "frontmatterKey": "map_view_link",
+      "enabled": true
+    }
+  },
+  "overrideExistingProperties": false,
+  "mapLinkProvider": "osm",
+  "apiProvider": "free-geocoding-api",
+  "apiKey": "67a640a95bcd6692558379klyfbf14c"
+}

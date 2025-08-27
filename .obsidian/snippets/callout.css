@@ -1,0 +1,7 @@
+[alt="clean"] {
+  border: none !important;
+}
+.callout[data-callout-metadata="15"] {
+  max-height: 3em;
+  overflow: scroll;
+} 

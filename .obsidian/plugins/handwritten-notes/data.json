@@ -1,0 +1,12 @@
+{
+  "defaultPath": "/Supporting/handwritten_notes",
+  "assetUrl": "",
+  "useRelativePaths": false,
+  "showWelcomeModal": false,
+  "collapseEmbeds": false,
+  "favoriteTemplate": "blank.pdf",
+  "templatesAtCustom": true,
+  "templatesPath": "Supporting/ PDF Templates",
+  "openInNewTab": false,
+  "createFolderIfNotExists": true
+}

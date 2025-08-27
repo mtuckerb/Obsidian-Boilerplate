@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "switcher:open",
+    "templater-obsidian:create-new-note-from-template",
+    "periodic-notes:open-daily-note",
+    "omnisearch:show-modal",
+    "handwritten-notes:quick-create-choose-dest-embed"
+  ]
+}

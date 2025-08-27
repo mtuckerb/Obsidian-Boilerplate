@@ -1,0 +1,1491 @@
+{
+  "workspaces": {
+    "Education": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "dimension": 47.25776965265082,
+            "children": [
+              {
+                "id": "8c7be4ed5f796d03",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dashboard.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "3f9c944cc3d59eb6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "3d62e1400c5a409e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/Organizations/University of Southern Maine.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "University of Southern Maine"
+                }
+              },
+              {
+                "id": "ada2560c1e6af36d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MSA BHP Onboarding.pdf",
+                    "page": 238,
+                    "left": -13,
+                    "top": 461,
+                    "zoom": -0.03125000000000001
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MSA BHP Onboarding"
+                }
+              },
+              {
+                "id": "fb26aaf6517f0f4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "c62560a022606996",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella 2009.pdf",
+                    "page": 2,
+                    "left": -25,
+                    "top": 31,
+                    "zoom": 0.6022727272727273
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "1d34fffa22107fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "USM 2025 Orientation.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "USM 2025 Orientation"
+                }
+              },
+              {
+                "id": "5a44d2678b972972",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Technology/Text To Speach.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Text To Speach"
+                }
+              },
+              {
+                "id": "28e6cdc8e016ab42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/19/2025-01-19.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-01-19"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "4e6379cc0abd360d",
+            "type": "tabs",
+            "dimension": 52.74223034734917,
+            "children": [
+              {
+                "id": "e75ea9036b6afe9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "McCubbin and Marsella"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3cdd197a5b5bc372",
+        "type": "split",
+        "children": [
+          {
+            "id": "f87c543c2f76d3a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33ead17f393aad73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "65c47159ebbd296d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "63d0d08a9f52e058",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "433dce5b41ed152f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 589.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bbf2011075432a3e",
+        "type": "split",
+        "children": [
+          {
+            "id": "8cd61f1eef189f15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41cc62b80e8a12aa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella 2009.pdf"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "3614ae48c6a67f66",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-01-18"
+                }
+              },
+              {
+                "id": "a70c3e88de3d0d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-01-18"
+                }
+              },
+              {
+                "id": "fd0c6977683485b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2189829ceab1df41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-01-18"
+                }
+              },
+              {
+                "id": "661a888151f4cb05",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "5cff432730e5e194",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 415.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-map-view:Open map view": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "markdown-importer:Open format converter": false,
+          "media-extended:Open media": false,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c62560a022606996",
+      "mtime": "2025-01-19T09:50:18-05:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Education",
+          "Education/2025",
+          "Education/2025/PSY-101 - Intro to Psychology",
+          "Education/2025/PSY-101 - Intro to Psychology/Week 1",
+          "Ephemera/diary/2025/01-January"
+        ]
+      }
+    },
+    "Work": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "dimension": 47.25776965265082,
+            "children": [
+              {
+                "id": "8c7be4ed5f796d03",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dashboard.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "3f9c944cc3d59eb6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "3d62e1400c5a409e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/Organizations/University of Southern Maine.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "University of Southern Maine"
+                }
+              },
+              {
+                "id": "ada2560c1e6af36d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MSA BHP Onboarding.pdf",
+                    "page": 238,
+                    "left": -13,
+                    "top": 461,
+                    "zoom": -0.03125000000000001
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MSA BHP Onboarding"
+                }
+              },
+              {
+                "id": "fb26aaf6517f0f4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "c62560a022606996",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella 2009.pdf",
+                    "page": 2,
+                    "left": -25,
+                    "top": 31,
+                    "zoom": 0.6022727272727273
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "1d34fffa22107fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "USM 2025 Orientation.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "USM 2025 Orientation"
+                }
+              },
+              {
+                "id": "5a44d2678b972972",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Technology/Text To Speach.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Text To Speach"
+                }
+              },
+              {
+                "id": "28e6cdc8e016ab42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/19/2025-01-19.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-01-19"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "4e6379cc0abd360d",
+            "type": "tabs",
+            "dimension": 52.74223034734917,
+            "children": [
+              {
+                "id": "e75ea9036b6afe9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "McCubbin and Marsella"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3cdd197a5b5bc372",
+        "type": "split",
+        "children": [
+          {
+            "id": "f87c543c2f76d3a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33ead17f393aad73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "65c47159ebbd296d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "63d0d08a9f52e058",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "433dce5b41ed152f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 589.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bbf2011075432a3e",
+        "type": "split",
+        "children": [
+          {
+            "id": "8cd61f1eef189f15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41cc62b80e8a12aa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Evergreen/Notes/Work/MAS - BHP/Behavioral Health Professional - Module 1.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "3614ae48c6a67f66",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-01-18"
+                }
+              },
+              {
+                "id": "a70c3e88de3d0d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-01-18"
+                }
+              },
+              {
+                "id": "fd0c6977683485b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2189829ceab1df41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-01-18"
+                }
+              },
+              {
+                "id": "661a888151f4cb05",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "5cff432730e5e194",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 415.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-map-view:Open map view": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "markdown-importer:Open format converter": false,
+          "media-extended:Open media": false,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c62560a022606996",
+      "mtime": "2025-01-19T09:50:24-05:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Education",
+          "Education/2025",
+          "Education/2025/PSY-101 - Intro to Psychology",
+          "Education/2025/PSY-101 - Intro to Psychology/Week 1",
+          "Ephemera/diary/2025/01-January"
+        ]
+      }
+    },
+    "Geekery": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "dimension": 47.25776965265082,
+            "children": [
+              {
+                "id": "8c7be4ed5f796d03",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dashboard.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "3f9c944cc3d59eb6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "3d62e1400c5a409e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/Organizations/University of Southern Maine.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "University of Southern Maine"
+                }
+              },
+              {
+                "id": "ada2560c1e6af36d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "MSA BHP Onboarding.pdf",
+                    "page": 238,
+                    "left": -13,
+                    "top": 461,
+                    "zoom": -0.03125000000000001
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MSA BHP Onboarding"
+                }
+              },
+              {
+                "id": "fb26aaf6517f0f4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supporting/pKPI Metrics.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pKPI Metrics"
+                }
+              },
+              {
+                "id": "c62560a022606996",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella 2009.pdf",
+                    "page": 2,
+                    "left": -25,
+                    "top": 31,
+                    "zoom": 0.6022727272727273
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "1d34fffa22107fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "USM 2025 Orientation.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "USM 2025 Orientation"
+                }
+              },
+              {
+                "id": "5a44d2678b972972",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Technology/Text To Speach.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Text To Speach"
+                }
+              },
+              {
+                "id": "28e6cdc8e016ab42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/19/2025-01-19.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-01-19"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "4e6379cc0abd360d",
+            "type": "tabs",
+            "dimension": 52.74223034734917,
+            "children": [
+              {
+                "id": "e75ea9036b6afe9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "McCubbin and Marsella"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3cdd197a5b5bc372",
+        "type": "split",
+        "children": [
+          {
+            "id": "f87c543c2f76d3a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33ead17f393aad73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "65c47159ebbd296d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "63d0d08a9f52e058",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "433dce5b41ed152f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 589.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bbf2011075432a3e",
+        "type": "split",
+        "children": [
+          {
+            "id": "8cd61f1eef189f15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41cc62b80e8a12aa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Education/2025/PSY-101 - Intro to Psychology/Week 1/McCubbin and Marsella 2009.pdf"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for McCubbin and Marsella 2009"
+                }
+              },
+              {
+                "id": "3614ae48c6a67f66",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-01-18"
+                }
+              },
+              {
+                "id": "a70c3e88de3d0d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-01-18"
+                }
+              },
+              {
+                "id": "fd0c6977683485b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2189829ceab1df41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-01-18"
+                }
+              },
+              {
+                "id": "661a888151f4cb05",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "5cff432730e5e194",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 415.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-map-view:Open map view": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "markdown-importer:Open format converter": false,
+          "media-extended:Open media": false,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c62560a022606996",
+      "mtime": "2025-01-19T09:51:33-05:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Education",
+          "Education/2025",
+          "Education/2025/PSY-101 - Intro to Psychology",
+          "Education/2025/PSY-101 - Intro to Psychology/Week 1",
+          "Ephemera/diary/2025/01-January"
+        ]
+      }
+    },
+    "Personal": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c7be4ed5f796d03",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dashboard.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "28e6cdc8e016ab42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/19/2025-01-19.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-01-19"
+                }
+              },
+              {
+                "id": "aa348d6faa18179d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Work/MAS - BHP/MAS - BHP.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MAS - BHP"
+                }
+              },
+              {
+                "id": "f5f46ee04fae3800",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Work/MAS - BHP/BHP Onboarding.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "BHP Onboarding"
+                }
+              },
+              {
+                "id": "3cf65c290f3879e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Notes/Work/MAS - BHP/Behavioral Health Professional - Module 1.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Behavioral Health Professional - Module 1"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3cdd197a5b5bc372",
+        "type": "split",
+        "children": [
+          {
+            "id": "f87c543c2f76d3a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33ead17f393aad73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "65c47159ebbd296d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "63d0d08a9f52e058",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "433dce5b41ed152f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 344.5026054382324,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bbf2011075432a3e",
+        "type": "split",
+        "children": [
+          {
+            "id": "8cd61f1eef189f15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41cc62b80e8a12aa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Evergreen/Notes/Work/MAS - BHP/Behavioral Health Professional - Module 1.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Behavioral Health Professional - Module 1"
+                }
+              },
+              {
+                "id": "3614ae48c6a67f66",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-01-18"
+                }
+              },
+              {
+                "id": "a70c3e88de3d0d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-01-18"
+                }
+              },
+              {
+                "id": "fd0c6977683485b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2189829ceab1df41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ephemera/diary/2025/01-January/18/2025-01-18.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-01-18"
+                }
+              },
+              {
+                "id": "661a888151f4cb05",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "5cff432730e5e194",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 415.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-map-view:Open map view": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "markdown-importer:Open format converter": false,
+          "media-extended:Open media": false,
+          "periodic-notes:Open today": false,
+          "obsidian-statusbar-pomo:Start pomodoro": false
+        }
+      },
+      "active": "3cf65c290f3879e8",
+      "mtime": "2025-01-19T13:27:05-05:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Evergreen",
+          "Evergreen/Notes",
+          "Evergreen/Notes/Work"
+        ]
+      }
+    }
+  },
+  "active": "Education"
+}

@@ -1,0 +1,3 @@
+body:not(.is-grabbing) .nav-file-title.is-active:hover {
+  color: white;
+}

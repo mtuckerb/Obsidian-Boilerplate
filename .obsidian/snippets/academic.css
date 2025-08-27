@@ -1,0 +1,31 @@
+.academic {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.academic .callout {
+  background: none;
+}
+
+.academic p {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.academic [data-callout="cite"] {
+  padding-left: 2em;
+  position: relative;
+
+}
+
+.academic [data-callout="cite"]::before {
+  content: "";
+  position: absolute;
+  width: 2em;
+  height: 1em;
+}
+
+.academic .callout-title {
+  display: none;
+}

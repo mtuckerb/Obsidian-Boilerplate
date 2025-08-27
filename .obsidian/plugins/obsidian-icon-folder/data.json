@@ -1,0 +1,1258 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBookOpen",
+      "FasCalendarDays",
+      "FasUserGroup",
+      "LiGraduationCap",
+      "FarStar"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": true
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 11/SWO-201.11 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 13/ENG-102.4.13 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 9/What is Psychology - Chapter 9 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 8/What is Psychology - Chapter 8 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 7/What is Psychology - Chapter 7 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 10/What is Psychology - Chapter 10 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 6/What is Psychology - Chapter 6 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 5/What is Psychology - Chapter 5 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 4/What is Psychology - Chapter 4 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 3/What is Psychology - Chapter 3.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 8/SWO-201.8 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 10/SWO-201.10 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/2025.md": {
+    "iconName": "LiCalendar",
+    "iconColor": "green"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 8/PSY-101.8 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 6/PSY-101.6 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 3/Week 8/ENG-102.3.8 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 12/ENG-102.4.12 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 11/ENG-102.4.11 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 3/Week 7/ENG-102.3.7 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 10/ENG-102.4.10 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 3/What is Psychology - Chapter 3 - Notes.md.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 7/PSY-101.7 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 3/Week 7/ENG-102.3.7 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 10/PSY-101.10 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 7/PSY-101.7 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 10/PSY-101.10 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 3/Week 8/ENG-102.3.8 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 6/PSY-101.6 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Intro to Psychology.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Introduction to Writing.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 10/ENG-102.4.10 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 3/Week 6/ENG-102.6 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 10/PHI-275.10 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 7/PHI-275.7 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - The Nature of Compassion.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 6/PHI-275..6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 11/PHI-275.11 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 11/PSY-101.11 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 8/PHI-275.8 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 11/PSY-101.11 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 12/PSY-101.12 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 12/ENG-102.4.12 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 6/SWO-201.6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Intro to Social Work.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 5/SWO-201.5 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 12/PSY-101.12 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 12/PHI-275.12 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 13/PSY-101.13 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 11/What is Psychology - Chapter 11 - Personality.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 9/SWO-201.9 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Module 12/SWO-201.12 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 12/What is Psychology - Chapter 12 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 13/What is Psychology - Chapter 13 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/04/21/Meetings/2025-04-21 - SWOSO.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 13/PHI-275.13 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 14/PHI-275.14 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/04/23/Attachments/2025-04-23 - Awesomely Awkward.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/04/23/2025-04-23.md": "FarCalendarDays",
+  "Supporting/Templates/1.5 Daily Note.md": "FasCalendarDays",
+  "2025/04/24/2025-04-24.md": "FasCalendarDays",
+  "2025/04/24/Meetings/2025-04-24 - Susan Saloman.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 13/ENG-102.4.13 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 14/ENG-102.4.14 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/ENG-102 - Introduction to Writing/ENG-102 - Module 4/Week 14/ENG-102.4.14 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/04/25/2025-04-25.md": "FasCalendarDays",
+  "2025/04/25/Meetings/2025-04-25 - Alexandra Vie.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/04/26/2025-04-26.md": "FasCalendarDays",
+  "2025/04/27/2025-04-27.md": "FasCalendarDays",
+  "2025/Spring/SWO-201 - Intro to Social Work/SWO-201 - Week 12/SWO-201.12 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/04/28/Meetings/2025-04-28 - Fahim.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/04/28/2025-04-28.md": "FarCalendarDays",
+  "2025/Spring/PHI-275 - The Nature of Compassion/PHI-275 - Week 15/PHI-275.15 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/What is Psychology/Chapter 14/What is Psychology - Chapter 14 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 15/PSY-101.15 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/04/30/2025-04-30.md": "FasCalendarDays",
+  "2025/04/29/2025-04-29.md": "FasCalendarDays",
+  "2025/04/22/2025-04-22.md": "FarCalendarDays",
+  "2025/04/21/2025-04-21.md": "FarCalendarDays",
+  "2025/05/01/2025-05-01.md": "FarCalendarDays",
+  "2025/Spring/PSY-101 - Intro to Psychology/PSY-101 - Module 15/PSY-101.15 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/02/Meetings/2025-05-02 - Volunteer Lawyer Project.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/03/2025-05-03.md": "FasCalendarDays",
+  "2025/05/04/2025-05-04.md": "FasCalendarDays",
+  "2025/05/02/2025-05-02.md": "FasCalendarDays",
+  "2025/05/05/Meetings/2025-05-05 - ConvinientMD.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 1/POS-101.1 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/05/2025-05-05.md": "FasCalendarDays",
+  "2025/05/06/Meetings/2025-05-06 - Heather Whiting.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/06/Meetings/2025-05-06 - Jenny Buckley.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/06/Meetings/2025-05-06 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/06/2025-05-06.md": "FasCalendarDays",
+  "2025/05/06/Meetings/2025-05-06 - Dad.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/07/2025-05-07.md": "FasCalendarDays",
+  "2025/05/07/Meetings/2025-05-07-Meg Williams.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/07/Meetings/2025-05-07 - Orthopedic Associates of Maine.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/08/2025-05-08.md": "FasCalendarDays",
+  "2025/05/09/2025-05-09.md": "FasCalendarDays",
+  "2025/05/09/Meetings/2025-05-09 - Orthopedic Associates of Maine.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/10/2025-05-10.md": "FasCalendarDays",
+  "2025/05/12/Meetings/2025-05-12 - Heather Whiting.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/12/Meetings/2025-05-12 - Jennifer Buckley.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/12/Meetings/2025-05-12 - Fahim Kahn.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/12/Meetings/2025-05-12 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/12/2025-05-12.md": "FasCalendarDays",
+  "2025/05/11/2025-05-11.md": "FasCalendarDays",
+  "2025/05/13/2025-05-13.md": "FasCalendarDays",
+  "2025/05/13/Meetings/2025-05-13 - Lisa Wood.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/14/2025-05-14.md": "FasCalendarDays",
+  "2025/05/15/2025-05-15.md": "FasCalendarDays",
+  "2025/05/15/Meetings/2025-05-15 - Heather Whiting.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/16/2025-05-16.md": "FasCalendarDays",
+  "2025/05/16/Meetings/2025-05-16 - Heather Whiting.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/20/Meetings/2025-05-20 - Heather Whiting.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 1/LOS-120.1 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 1/PSY-230.1 Friday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/HIH-203 - Mind Body Stress Reduction/HIH-203 - Week 1/HIH-203.1 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/HIH-203 - Mind Body Stress Reduction/HIH-203 - Mind Body Stress Reduction.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Social Psychology.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/05/17/2025-05-17.md": "FasCalendarDays",
+  "2025/05/18/2025-05-18.md": "FasCalendarDays",
+  "2025/05/19/2025-05-19.md": "FasCalendarDays",
+  "2025/05/19/Meetings/2025-05-19 - Town and Country.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/19/Meetings/2025-05-19 - Casco Bay High School.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/19/Meetings/2025-05-19 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/20/2025-05-20.md": "FasCalendarDays",
+  "2025/05/20/Meetings/2025-05-20 - Debora.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/20/Meetings/2025-05-20 - Eric Fitzmedrud.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/21/2025-05-21.md": "FasCalendarDays",
+  "2025/05/07/Meetings/2025-05-07 - Orthopedic Associates of Maine 1.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 1/POS-101.1 Wednesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/21/Meetings/2025-05-21 - Cumberland County Court.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/22/2025-05-22.md": "FasCalendarDays",
+  "2025/05/22/Meetings/2025-05-22 - Pretrial Conference.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/23/2025-05-23.md": "FasCalendarDays",
+  "2025/05/23/Meetings/Tr.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 1/POS-101.1 Friday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/24/2025-05-24.md": "FasCalendarDays",
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Stats for Informed Dec Making.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Intro to Amer Government.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/05/25/2025-05-25.md": "FasCalendarDays",
+  "2025/Summer/HIH-203 - Mind Body Stress Reduction/HIH-203 - Week 2/HIH-203.2 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 2/PSY-230.2 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/26/2025-05-26.md": "FasCalendarDays",
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 2/POS-101.2 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/27/2025-05-27.md": "FasCalendarDays",
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 2/LOS-120.2 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/27/Meetings/2025-05-27 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/27/Meetings/2025-05-27 - Fahim Khan.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 5/SocialPsychology - Chapter 5 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/05/28/Meetings/2025-05-28 - Olives Health Form.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/05/28/2025-05-28.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/05/29/2025-05-29.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 4/SocialPsychology - Chapter 4 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/05/30/2025-05-30.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 3/POS-101.3 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/05/31/2025-05-31.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/01/2025-06-01.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/HIH-203 - Mind Body Stress Reduction/HIH-203 - Week 3/HIH-203.3 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 3/PSY-230.3 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/02/2025-06-02.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/02/Meetings/2025-06-02 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/02/Meetings/2025-06-02 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 3/LOS-120.3 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/03/2025-06-03.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 6/SocialPsychology - Chapter 6 - Attitudes Behaviors and Rationalization.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/Summer": {
+    "iconName": "LiAlertCircle",
+    "iconColor": "#5f33ff"
+  },
+  "2025/06/04/2025-06-04.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 3/POS-101.3 Wednesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/05/2025-06-05.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/07/2025-06-07.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/06/2025-06-06.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/08/2025-06-08.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/09/2025-06-09.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 4/POS-101.4 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/09/Meetings/2025-06-09 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/09/Meetings/2025-06-09 - Fedcap.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/HIH-203 - Mind Body Stress Reduction/HIH-203 - Week 4/HIH-203.4 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/10/2025-06-10.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/11/2025-06-11.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/10/Meetings/2025-06-10 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 4/POS-101.4 Wednesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/12/2025-06-12.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 4/LOS-120.4 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/13/2025-06-13.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/POS-101 - Intro to Amer Government/POS-101 - Week 4/POS-101.4 Friday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 7/SocialPsychology - Chapter 7 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/14/2025-06-14.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 8/SocialPsychology - Chapter 8 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/15/2025-06-15.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 9/Chapter 9 - Relationships and Attraction.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/16/2025-06-16.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/16/Meetings/2025-06-16 - Meet with Tim Russell.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 5/PSY-230.5 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/17/2025-06-17.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/18/2025-06-18.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 10/SocialPsychology - Chapter 10 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/19/2025-06-19.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/19/Meetings/2025-06-19 - Bratchell, Debra.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/19/Meetings/2025-06-19 - DHHS - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/20/2025-06-20.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 12/null.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/21/2025-06-21.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "Supporting/People/Debra Bratchell.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/22/2025-06-22.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/23/Meetings/2025-06-23 - Debra Bratchell.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/23/Meetings/2025-06-23 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 5/LOS-120.5 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/23/Meetings/2025-06-23 - Town & Country.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/23/Meetings/2025-06-23 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/23/Meetings/2025-06-23 - Shireen Browne.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/23/Meetings/2025-06-23 - Fahim Kahn.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/23/2025-06-23 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/24/2025-06-24 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 6/LOS-120.6.6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/24/Meetings/2025-06-24 - Shireen Browne.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 6/PSY-230.6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/25/2025-06-25 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/25/Meetings/2025-06-25 - Auto Registration.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/25/Meetings/2025-06-25 - Shireen Browne.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/26/2025-06-26 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/27/2025-06-27 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/28/2025-06-28 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 14/SocialPsychology - Chapter 14 - Notes.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/06/29/2025-06-29 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/PSY-230 - Week 7/PSY-230.7 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/30/2025-06-30 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/LOS-120 - Stats for Informed Dec Making/LOS-120 - Week 7/LOS-120.7 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/06/30/Meetings/2025-06-30 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/01/2025-07-01 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/01/Meetings/2025-07-01 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/01/Meetings/2025-07-01 - Eric.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/PSY-230 - Social Psychology/SocialPsychology/Chapter 13/SocialPsychology - Chapter 13 - Aggression.md.md": {
+    "iconName": "FasBookOpen",
+    "iconColor": "orange"
+  },
+  "2025/07/02/2025-07-02 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/03/2025-07-03 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/04/2025-07-04 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/05/2025-07-05 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/06/2025-07-06 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/06/2025-07-06.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/07/2025-07-07 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/07/Meetings/2025-07-07 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/07/Meetings/2025-07-07 - Fahim Kahn.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/08/2025-07-08.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/08/2025-07-08 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/09/2025-07-09 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/10/2025-07-10 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/11/2025-07-11 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/11/Meetings/2025-07-11 - Shuli Bonham.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/12/2025-07-12 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Fall/SWO-250 - Introduction to Social Welfare/SWO-250 - Introduction to Social Welfare.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Fall/SWO-270 - Human Behavior in Social Environments/SWO-270 - Human Behavior in Social Environments.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Fall/SWO-365 - Foundations of Justice in SWO/SWO-365 - Foundations of Justice in SWO.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/07/12/Meetings/null.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/13/2025-07-13 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/14/2025-07-14 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/14/Meetings/2025-07-14 - TANF.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/14/Meetings/2025-07-14 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/06/29/Meetings/2025-06-29 - Shireen Browne.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/14/Meetings/2025-07-14 - Shireen Browne.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/14/Meetings/2025-07-14 - null.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/15/2025-07-15 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/15/Meetings/2025-07-15 - Orthopedic.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - BHP Certification.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 4/BHP-101.4 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/07/15/Meetings/null.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/15/Meetings/2025-07-15 - Eric.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/16/2025-07-16 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/17/2025-07-17 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/24/2025-06-24.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/24/2025-06-24 - Tuesday - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date - Invalid date.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/27/2025-06-27.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/06/25/2025-06-25.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/18/2025-07-18 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/19/2025-07-19 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/19/Meetings/2025-07-19 - Ransom Richardson.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/20/2025-07-20 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/20/Meetings/2025-07-20 - Gaming.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/21/2025-07-21 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/21/Meetings/2025-07-21 - Maine Sleep Center.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/21/Meetings/2025-07-21 - Dentistry.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/21/Meetings/2025-07-21 - Dermatology Appointment.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/21/Meetings/null.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/21/Meetings/2025-07-21 - Fahim Khan.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/22/2025-07-22 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/22/Meetings/2025-07-22 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/23/2025-07-23 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/24/2025-07-24 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/24/Meetings/2025-07-24 - Dr craig-muler.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/25/2025-07-25 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/26/2025-07-26 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/26/Meetings/2025-07-26 - Jake Aleo.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/27/2025-07-27 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/28/2025-07-28 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/28/Meetings/2025-07-28 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 5/BHP-101.5 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/07/29/2025-07-29 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/27/Meetings/2025-07-27  - Dad.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/29/Meetings/2025-07-29 - Eric.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/07/30/2025-07-30 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/31/2025-07-31 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 6/BHP-101.6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/08/01/2025-08-01 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/02/2025-08-02 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/03/2025-08-03 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/04/2025-08-04 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/05/2025-08-05 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/05/Meetings/2025-08-05 - Dad.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/05/Meetings/2025-08-05-Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/06/null.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/06/Meetings/2025-08-06 - Dana.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/07/2025-08-07 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/08/2025-08-08 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/09/2025-08-09 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/10/null.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 8/BHP-101.8 Sunday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/08/11/2025-08-11 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/06/2025-08-06 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/11/Meetings/2025-08-11 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/10/2025-08-10 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/07/2025-07-07.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/07/11/2025-07-11.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Introduction to Macroeconomics.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "orange"
+  },
+  "2025/08/12/2025-08-12 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/13/2025-08-13 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/14/2025-08-14 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/15/2025-08-15 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/16/2025-08-16 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/17/2025-08-17 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/18/2025-08-18 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/18/Meetings/2025-08-18 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/18/Meetings/2025-08-18 - Fahim Khan.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/19/2025-08-19 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/19/Meetings/2025-08-19 - Eric.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/20/2025-08-20 - Wednesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/20/Meetings/2025-08-20 - Reggie Pawle.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/21/2025-08-21 - Thursday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 9/BHP-101.9 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Summer/BHP-101 - BHP Certification/BHP-101 - Module 10/BHP-101.10 Thursday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/08/22/2025-08-22 - Friday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/22/Untitled.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/23/2025-08-23 - Saturday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/24/2025-08-24 - Sunday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/08/25/2025-08-25 - Monday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "Untitled 1.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/25/Meetings/2025-08-25 - Alexandra Vye.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/08/26/2025-08-26 - Tuesday.md": {
+    "iconName": "FasCalendarDays"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 1/ECO-101.1 Tuesday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/08/26/Meetings/2025-08-26 - Eric.md": {
+    "iconName": "FasUserGroup",
+    "iconColor": "red"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 2/ECO-101.2 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 3/ECO-101.3 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 4/ECO-101.4 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 5/ECO-101.5 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 6/ECO-101.6 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 7/ECO-101.7 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 8/ECO-101.8 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 9/ECO-101.9 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 10/ECO-101.10 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 11/ECO-101.11 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 13/ECO-101.13 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  },
+  "2025/Fall/ECO-101 - Introduction to Macroeconomics/ECO-101 - Week 14/ECO-101.14 Monday.md": {
+    "iconName": "FarStar",
+    "iconColor": "purple"
+  }
+}

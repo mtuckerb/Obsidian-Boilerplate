@@ -1,0 +1,76 @@
+{
+  "userAdmonitions": {
+    "critical": {
+      "type": "critical",
+      "color": "236, 115, 50",
+      "icon": {
+        "name": "bomb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Critical Path",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "killing_it": {
+      "type": "killing_it",
+      "color": "240, 224, 122",
+      "icon": {
+        "name": "skull-crossbones",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Killing It",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "done": {
+      "type": "done",
+      "color": "185, 238, 191",
+      "icon": {
+        "name": "lucide-circle-check-big",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Done",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "to_do": {
+      "type": "to_do",
+      "color": "162, 201, 226",
+      "icon": {
+        "name": "lucide-circle",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Todo",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "10.3.2",
+  "autoCollapse": true,
+  "defaultCollapseType": "closed",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.1fe1fe"
+}

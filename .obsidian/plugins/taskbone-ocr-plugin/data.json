@@ -1,0 +1,479 @@
+{
+  "version": "2.3.2",
+  "baseUrl": "https://app.taskbone.com",
+  "flowConfigurations": [
+    {
+      "flow": "https://flows.taskbone.com/cbd24201-6d50-4754-ae53-1320f4f3252b.json",
+      "command": {
+        "id": "89a91a93",
+        "name": "OCR active file into annotation file",
+        "description": "process the currently selected file and write the extracted text into an annotation file."
+      },
+      "inputConfigurations": [
+        {
+          "name": "image",
+          "type": "binary/base64",
+          "sourceType": "activeFile",
+          "isRegularExpression": true,
+          "pattern": "\\.(png|jpg|jpeg|gif|pdf|PDF)$",
+          "path": ""
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "---\ndate: \"{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}\"\ntags: ocr, taskbone\n---\n\n# {{ imageFileBaseName }}\n![[{{ imageFilePath }}]]\n\n{{ text }}\n",
+          "path": "taskbone/templates/OCR Template.md"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "createOrReplaceFile",
+          "sourceType": "property",
+          "property": "output",
+          "filePath": "${input['image/obsidian/filePath']}.annotations.md"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/cbd24201-6d50-4754-ae53-1320f4f3252b.json",
+      "command": {
+        "id": "e2221671",
+        "name": "OCR image and insert at cursor position",
+        "description": "OCR image and insert text at curser position"
+      },
+      "inputConfigurations": [
+        {
+          "name": "image",
+          "type": "binary/base64",
+          "sourceType": "selectFile",
+          "isRegularExpression": true,
+          "pattern": "\\.(png|jpg|jpeg|gif|pdf|PDF)$",
+          "path": ""
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ text }} ",
+          "path": "taskbone/templates/OCR Template.md"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "insertAtCursorPosition",
+          "sourceType": "property",
+          "property": "output",
+          "filePath": "${input['image/obsidian/filePath']}.annotations.md"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        }
+      ],
+      "triggers": []
+    },
+    {
+      "flow": "https://flows.taskbone.com/getMathTextAndFormat.json",
+      "command": {
+        "id": "8223e773",
+        "name": "OCR Math image and insert at cursor position",
+        "description": "OCR Math image and insert text at curser position"
+      },
+      "inputConfigurations": [
+        {
+          "name": "image",
+          "type": "binary/base64",
+          "sourceType": "selectFile",
+          "isRegularExpression": true,
+          "pattern": "\\.(png|jpg|jpeg|gif)$",
+          "path": ""
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ text }}"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "insertAtCursorPosition",
+          "sourceType": "property",
+          "property": "output"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/48432c07-6063-47aa-b43a-debe483673c0.json",
+      "command": {
+        "id": "98883b61",
+        "name": "Sync with Todoist (tasks-style)",
+        "description": "Pushes new tasks to Todoist and syncs state in both directions."
+      },
+      "inputConfigurations": [
+        {
+          "name": "text",
+          "type": "string",
+          "sourceType": "activeFile"
+        },
+        {
+          "name": "taskRegex",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "^[ \\t]*(-|\\*|\\d*\\.) \\[[xX ]\\].*$"
+        },
+        {
+          "name": "level",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign spaces = task | findAll: '(?<=^[\\\\s]*)[\\\\s]+?' %}{{ spaces | size }}"
+        },
+        {
+          "name": "state",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign x = task | findOne: '\\\\[[xX ]\\\\]' %}{% if x == '[ ]' %}open{% else %}resolved{% endif %}"
+        },
+        {
+          "name": "title",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=^[ \\\\t]*- \\\\[[xX ]\\\\] ).*?(?=$|#|📅|⏳|🛫|⏫|🔼|🔽|🔁|✅|(?:\\\\[Todoist\\\\]))' | strip }}"
+        },
+        {
+          "name": "description",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "[Link to Obsidian](obsidian://open?vault={{ vaultName | url_encode }}&file={{ filePath | url_encode}})"
+        },
+        {
+          "name": "projectName",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=#project::).*?(?= ?($|#))' }}"
+        },
+        {
+          "name": "labelNames",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign labels = task | findAll: '(?<=[\\\\t ]*[#])([^\\\\s:#,.])+(?![\\\\S]*::)' %}{{ labels | json }}"
+        },
+        {
+          "name": "dueDate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=(#due::|📅 ))\\\\d{4}-\\\\d{2}-\\\\d{2}' }}"
+        },
+        {
+          "name": "todoistId",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=https:\\\\/\\\\/todoist.com\\\\/showTask\\\\?id=)\\\\d*' }}"
+        },
+        {
+          "name": "updateTemplate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{%- assign tasks = tasks | reverse -%}\n{%- assign update = original -%}\n\n{%- for task in tasks -%}\n\n{%- comment -%}\nThis section checks if a task was added to Todoist for a to-do found in the text. It then adds the link to the task\n{%- endcomment -%}\n\n{%- assign addCommand = task.commands | where: \"type\", \"item_add\" | first -%}\n{%- if addCommand -%}\n\n{%- assign todoistId = idMap[addCommand.temp_id] -%}\n{%- capture updatedLine %}{{ task.text.match | rstrip }} [Todoist](https://todoist.com/showTask?id={{ todoistId }}){% endcapture -%}\n{%- assign length = task.text.match | size -%}\n{%- assign update = update | replaceAtPosition: updatedLine,  task.text.index, length -%}\n\n{%- else -%}\n\n{%- comment -%}\nThis section checks if a task was completed in Todoist and checks it off. The Todoist API is not very friendly in this case. So this is not very straight forward...\n{%- endcomment -%}\n{%- assign todoistId = task.todoist.todoistId -%}\n{%- unless todoistId -%}\n{%- assign length = task.text.match | size -%}\n{%- capture updatedLine %}{{ task.text.match | rstrip | replace_first: \"[ ]\", \"[x]\" }}{% unless task.text.match contains \"✅\" %} ✅ {{ \"now\" | date: \"%Y-%m-%d\" }}{% endunless %}{% endcapture -%}\n{%- assign update = update | replaceAtPosition: updatedLine,  task.text.index, length -%}\n{%- endunless -%}\n\n{%- endif -%}\n{%- endfor -%}\n{{ update }}",
+          "path": "taskbone/templates/formatTasks.md"
+        },
+        {
+          "name": "ignoreFieldsOnUpdate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{\n  \"title\": true,\n  \"description\": true,\n  \"labels\": true,\n  \"dueDate\": true,\n  \"project\": true,\n  \"parent\": false,\n  \"state\": false\n}"
+        },
+        {
+          "name": "priority",
+          "type": "string",
+          "value": "{% if task contains \"⏫\" %}4{% elsif task contains \"🔼\" %}3{% endif %}",
+          "sourceType": "constant"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "replaceActiveFile",
+          "sourceType": "property",
+          "property": "updatedContent"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/c1b21405-7a22-4cdf-9d11-62b3d0a2a1b4.json",
+      "command": {
+        "id": "942a877f",
+        "name": "Import tasks into current daily note",
+        "description": "Import Todoist tasks due on the day of the currently active daily note"
+      },
+      "inputConfigurations": [
+        {
+          "name": "filter",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "due: {% assign split = fileBaseName | split: '-' %}{{ split[1] }}/{{ split[2] }}/{{ split[0] }}"
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{%- for task in tasks %}{% capture line %}\n\n{% for num in (1..task.level)%}    {% endfor %}\n\n- [ ] {{ task.title }}\n\n{% for label in task.labelNames %} #{{ label }}{% endfor %}\n\n{% if task.dueDate %} #due::{{task.dueDate}}{% endif %}\n [todoist]({{ task.url }})\n\n{% endcapture %}{{ line | strip_newlines}}\n{% endfor %}"
+        },
+        {
+          "name": "fileMetaData",
+          "type": "string",
+          "sourceType": "activeFile"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "insertAtCursorPosition",
+          "sourceType": "property",
+          "property": "document"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/ObsidianTodoistSyncWithFilter.json",
+      "command": {
+        "id": "addc2fa4",
+        "name": "Sync project tasks",
+        "description": "Sync based on the 'Project' defined in the frontmatter"
+      },
+      "inputConfigurations": [
+        {
+          "name": "text",
+          "type": "string",
+          "sourceType": "activeFile"
+        },
+        {
+          "name": "filter",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% if metadata.frontmatter.Project %}#{{ metadata.frontmatter.Project }}{% else %}#Inbox{% endif %}"
+        },
+        {
+          "name": "taskRegex",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "^[ \\t]*(-|\\*|\\d*\\.) \\[[xX ]\\].*$"
+        },
+        {
+          "name": "level",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign spaces = task | findAll: '(?<=^[\\\\s]*)[\\\\s]+?' %}{{ spaces | size }}"
+        },
+        {
+          "name": "state",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign x = task | findOne: '\\\\[[xX ]\\\\]' %}{% if x == '[ ]' %}open{% else %}resolved{% endif %}"
+        },
+        {
+          "name": "title",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=^[ \\\\t]*- \\\\[[xX ]\\\\] ).*?(?=$|#|📅|⏳|🛫|⏫|🔼|🔽|🔁|✅|(?:\\\\[Todoist\\\\]))' | strip }}"
+        },
+        {
+          "name": "description",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "[Obsidian](obsidian://open?vault={{ vaultName | url_encode }}&file={{ filePath | url_encode}})"
+        },
+        {
+          "name": "projectName",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% if metadata.frontmatter.Project %}{{ metadata.frontmatter.Project }}{% else %}Inbox{% endif %}"
+        },
+        {
+          "name": "labelNames",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% assign labels = task | findAll: '(?<=[\\\\t ]*[#])([^\\\\s:#,.])+(?![\\\\S]*::)' %}{{ labels | json }}"
+        },
+        {
+          "name": "dueDate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{%- assign due = task | findOne: '(?<=(#due::|📅 ))\\\\d{4}-\\\\d{2}-\\\\d{2}(T\\\\d{2}:\\\\d{2})?' -%}\n{%- if due -%}\n{{ due }}\n{%- assign length = due | size -%}\n{%- if length ==  16 -%}\n:00\n{%- endif -%}\n{%- endif -%}"
+        },
+        {
+          "name": "priority",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{% if task contains \"⏫\" %}4{% elsif task contains \"🔼\" %}3{% endif %}"
+        },
+        {
+          "name": "todoistId",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{{ task | findOne: '(?<=https:\\\\/\\\\/todoist.com((\\\\/showTask\\\\?id=)|(\\\\/app\\\\/task\\\\/)))\\\\d*' }}"
+        },
+        {
+          "name": "updateTemplate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{%- assign tasks = tasks | reverse -%}\n\n{%- assign update = original -%}\n\n{%- for task in tasks -%}\n\n{%- comment -%}\nThis section checks if a task was added to Todoist for a to-do found in the text. It then adds the link to the task\n{%- endcomment -%}\n\n{%- assign addCommand = task.commands | where: \"type\", \"item_add\" | first -%}\n{%- if addCommand -%}\n\n{%- assign todoistId = idMap[addCommand.temp_id] -%}\n{%- capture updatedLine %}{{ task.text.match | rstrip }} [Todoist](https://todoist.com/app/task/{{ todoistId }}){% endcapture -%}\n{%- assign length = task.text.match | size -%}\n{%- assign update = update | replaceAtPosition: updatedLine,  task.text.index, length -%}\n\n{%- else -%}\n\n{%- comment -%}\nThis section checks if a task was completed in Todoist and checks it off. The Todoist API is not very friendly in this case. So this is not very straight forward...\n{%- endcomment -%}\n{%- assign todoistId = task.todoist.todoistId -%}\n{%- unless todoistId -%}\n{%- assign length = task.text.match | size -%}\n{%- capture updatedLine %}{{ task.text.match | rstrip | replace_first: \"[ ]\", \"[x]\" }}{% unless task.text.match contains \"✅\" %} ✅ {{ \"now\" | date: \"%Y-%m-%d\" }}{% endunless %}{% endcapture -%}\n{%- assign update = update | replaceAtPosition: updatedLine,  task.text.index, length -%}\n{%- endunless -%}\n\n{%- endif -%}\n{%- endfor -%}\n{%- assign taskIds = tasks | JSONPath: \"$..commands..args.id\" | uniq | join: ' ' -%}\n{%- capture newTasks -%}\n{%- for task in matchingTasks -%}\n{%- unless taskIds contains task.entryId %}\n{% capture line %}\n\n{% for num in (1..task.level)%}    {% endfor %}\n\n- [ ] {{ task.title }}\n{% for label in task.labelNames %} #{{ label }}{% endfor %}\n{% if task.dueDate %} 📅 {{task.dueDate}}{% endif %}\n [Todoist]({{ task.url }})\n\n{% endcapture %}{{ line | strip_newlines}}{%- endunless -%}\n{%- endfor -%}\n{%- endcapture -%}\n{%- assign lastOpenTask = update | findAll: '^[ \\\\t]*(-|\\\\*|\\\\d*\\\\.) \\\\[[ ]\\\\].*', true | last -%}\n{%- if lastOpenTask -%}\n{%- assign length = lastOpenTask.match | size -%}\n{%- assign position = lastOpenTask.index | plus: length -%}\n{%- else -%}\n{%- assign todoCallOut = update | findAll: '^>\\\\s*\\\\[!todo\\\\].*', true | last -%}\n{%- if todoCallOut -%}\n{%- assign length = todoCallOut.match | size -%}\n{%- assign position = todoCallOut.index | plus: length -%}\n{%- else -%}\n{%- assign position = update | size -%}\n{%- endif -%}\n{%- endif -%}\n{{ update | replaceAtPosition: newTasks, position, 0 }}"
+        },
+        {
+          "name": "ignoreFieldsOnUpdate",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{\n  \"title\": true,\n  \"description\": true,\n  \"labels\": true,\n  \"dueDate\": true,\n  \"project\": true,\n  \"parent\": false,\n  \"state\": false\n}"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "replaceActiveFile",
+          "sourceType": "property",
+          "property": "updatedContent"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/c1b21405-7a22-4cdf-9d11-62b3d0a2a1b4.json",
+      "command": {
+        "id": "3179b8c5",
+        "name": "Import Todoist tasks (tasks-style)",
+        "description": "Import Todoist tasks due today or overdue at cursor position"
+      },
+      "inputConfigurations": [
+        {
+          "name": "filter",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "(today | overdue)"
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "sourceType": "constant",
+          "value": "{%- for task in tasks %}{% capture line %}\n\n{% for num in (1..task.level)%}    {% endfor %}\n\n- [ ] {{ task.title }}\n\n{% for label in task.labelNames %} #{{ label }}{% endfor %}\n\n{% if task.priority == 4 %} ⏫{% elsif task.priority == 3 %} 🔼{% endif %}\n\n{% if task.dueDate %} 📅 {{task.dueDate}}{% endif %}\n [Todoist]({{ task.url }})\n\n{% endcapture %}{{ line | strip_newlines}}\n{% endfor %}"
+        },
+        {
+          "name": "fileMetaData",
+          "type": "string",
+          "value": "",
+          "sourceType": "constant",
+          "path": ""
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "insertAtCursorPosition",
+          "sourceType": "property",
+          "property": "document"
+        }
+      ]
+    },
+    {
+      "flow": "https://flows.taskbone.com/cbd24201-6d50-4754-ae53-1320f4f3252b.json",
+      "command": {
+        "id": "a034e1df",
+        "name": "OCR selected and insert at cursor position",
+        "description": "OCR image and insert text at curser position"
+      },
+      "inputConfigurations": [
+        {
+          "type": "binary/base64",
+          "sourceType": "activeFile",
+          "name": "image"
+        },
+        {
+          "type": "string",
+          "sourceType": "activeFile",
+          "name": "template"
+        }
+      ],
+      "resultActions": [
+        {
+          "action": "insertAtCursorPosition",
+          "sourceType": "property",
+          "property": "output",
+          "filePath": "${input['image/obsidian/filePath']}.annotations.md"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        },
+        {
+          "action": "log",
+          "sourceType": "raw"
+        }
+      ],
+      "triggers": []
+    }
+  ],
+  "flowDefinitions": [
+    {
+      "id": "cbd24201-6d50-4754-ae53-1320f4f3252b",
+      "name": "OCR and format with template",
+      "description": "OCR and format with template",
+      "url": "https://flows.taskbone.com/cbd24201-6d50-4754-ae53-1320f4f3252b.json",
+      "inputDefinitions": [
+        {
+          "name": "image",
+          "mandatory": true,
+          "description": "The image to process",
+          "type": "binary/base64"
+        },
+        {
+          "name": "template",
+          "type": "string",
+          "mandatory": true,
+          "description": "The template to format the text."
+        }
+      ],
+      "outputDefinitions": [
+        {
+          "name": "output",
+          "description": "The formatted text"
+        }
+      ],
+      "steps": [
+        {
+          "id": "getText",
+          "function": "ocr.getTextForBase64Image",
+          "inputs": {
+            "base64image": "$.input.image"
+          }
+        },
+        {
+          "id": "renderTemplate",
+          "function": "liquid",
+          "inputs": {
+            "template": "$.input.template",
+            "text": "$.getText.text",
+            "imageFileBaseName": "$.input.image/obsidian/fileBaseName",
+            "imageFileExtension": "$.input.image/obsidian/fileExtension",
+            "imageFileParentPath": "$.input.image/obsidian/fileParentPath",
+            "imageFilePath": "$.input.image/obsidian/filePath",
+            "imageMetadata": "$.input.image/obsidian/metadata",
+            "imageVaultName": "$.input.image/obsidian/vaultName",
+            "templateFileBaseName": "$.input.template/obsidian/fileBaseName",
+            "templateFileExtension": "$.input.template/obsidian/fileExtension",
+            "templateFileParentPath": "$.input.template/obsidian/fileParentPath",
+            "templateFilePath": "$.input.image/obsidian/filePath",
+            "templateMetadata": "$.input.template/obsidian/metadata",
+            "templateVaultName": "$.input.template/obsidian/vaultName"
+          }
+        }
+      ]
+    }
+  ],
+

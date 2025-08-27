@@ -1,0 +1,9 @@
+.mb-input textarea{
+  background: white;
+  font-size: 1em;
+  padding: 1em;
+}
+.mb-editor-input > div {
+  background: white;
+  border: none !important;
+}
