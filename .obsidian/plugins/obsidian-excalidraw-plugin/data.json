@@ -10457,7 +10457,6 @@
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": true,
-  "taskboneAPIkey": "6f99dab6-d0bf-412c-88d0-22ed7cb4aebf",
   "pinnedScripts": [
     "Supporting/Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
     "Supporting/Excalidraw/Scripts/Downloaded/Scribble Helper.md"
@@ -10809,8 +10808,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "aiEnabled": true,
-  "openAIAPIToken": "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",
+  "aiEnabled": false,
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
