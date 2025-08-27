@@ -1,1 +1,7 @@
-{}
+{
+  "minimal-style@@h1-color@@light": "#353386",
+  "minimal-style@@link-color@@light": "#7A98C8",
+  "minimal-style@@link-color-hover@@light": "#606AC9",
+  "minimal-style@@link-unresolved-color@@light": "#7DA5DA",
+  "minimal-style@@link-external-color@@light": "#7DD4A5"
+}

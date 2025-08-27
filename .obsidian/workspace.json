@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00b72c324e16a232",
+            "id": "13563283c8f64526",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -92,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Supporting/Templates/2.2 Create Chapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2.2 Create Chapter"
             }
           },
           {
@@ -152,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -169,13 +183,25 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "93b2fc52e6ca95d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 623.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +227,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "40420efd92302877",
+  "active": "13563283c8f64526",
   "lastOpenFiles": [
+    "2025/08/27/2025-08-27 - Wednesday.md",
+    "Supporting/Templates/2.2 Create Chapter.md",
     "2025/08/28/Attachments",
     "2025/08/28",
-    "2025/08/27/2025-08-27 - Wednesday.md",
     "2025/08/27",
     "2025/08",
-    "2025"
+    "2025",
+    "2025/Fall/PSY-101 - Intro to Psych/The Reluctant Welfare State/Chapter 1/The Reluctant Welfare State - Chapter 1 - Notes.md.md",
+    "2025/Fall/PSY-101 - Intro to Psych/Attachments/The Reluctant Welfare State.pdf",
+    "2025/Fall/PSY-101 - Intro to Psych/PSY-101 - Intro to Psych.md",
+    "2025/Fall/PSY-101 - Intro to Psych/The Reluctant Welfare State/Chapter 1/Attachments",
+    "2025/Fall/PSY-101 - Intro to Psych/The Reluctant Welfare State/Chapter 1",
+    "2025/Fall/PSY-101 - Intro to Psych/The Reluctant Welfare State",
+    "Supporting/Templates/Untitled.md",
+    "Supporting/Templater Scripts/new_chapter.js~",
+    "Supporting/Templates/2.2 Course Homepage.md",
+    "Supporting/Templates/1.5 Daily Note.md",
+    "Supporting/Templates/10.1 ToDos.md",
+    "2025/2025.md",
+    "2025/Fall/EES-101 - Dynamic Earth/EES-101 - Module 1/Week 1/EES-101.1.1 Tuesday.md",
+    "2025/Fall/EES-101 - Dynamic Earth/The Reluctant Welfare State$1 Engaging Hist - Bruce S. Jansson.pdf.md",
+    "README.md",
+    "2025/Fall/EES-101 - Dynamic Earth/EES-101 - Dynamic Earth.md",
+    "Untitled.canvas",
+    "2025/Fall/EES-101 - Dynamic Earth/EES-101 - Module 1/Week 1/Plate Tectonics.md",
+    "2025/Fall/EES-101 - Dynamic Earth/Untitled.md"
   ]
 }

@@ -8,7 +8,7 @@ module.exports = async function(app, tp, directoryPath) {
     return [];
   }
 
-  const courses = await tp.user.getCourses(app); 
+  const courses = await tp.user.getCourses(tp); 
   const course = await tp.system.suggester(subName(courses), courses) 
   if (!course) return
   const path = app.metadataCache.getFirstLinkpathDest(

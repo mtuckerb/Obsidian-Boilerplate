@@ -1,6 +1,20 @@
+const getFrontmatterMatchingTag =  async (app, tag) => {
+    const mdCache = app.metadataCache.metadataCache
+    let result = []
+    for (const hash in mdCache) { 
+      const frontmatter = (await mdCache[hash])?.frontmatter
+      const tags = typeof tag === 'string' && frontmatter ? [tag] : tag;
+      for (const tag of tags) {
+            if (frontmatter?.tags?.includes(tag)) {
+                    result.push(frontmatter)
+                          }
+          }
+      }
+    return result
+}
+
 const getCourses = async (tp, year, season) => {
   const app = tp.app
-  const getFrontmatterMatchingTag = tp.user.getFrontmatterMatchingTag
   const courses = await getFrontmatterMatchingTag(app, "course_home")
   let courseMatches = []
   if (year) {

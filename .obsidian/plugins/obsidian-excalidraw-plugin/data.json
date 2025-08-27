@@ -107,7 +107,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.14.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.1",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -10457,6 +10457,7 @@
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": true,
+  "taskboneAPIkey": "",
   "pinnedScripts": [
     "Supporting/Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
     "Supporting/Excalidraw/Scripts/Downloaded/Scribble Helper.md"
@@ -10809,6 +10810,7 @@
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "aiEnabled": false,
+  "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",

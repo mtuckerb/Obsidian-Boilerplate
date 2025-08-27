@@ -1126,7 +1126,23 @@
     "Wesleyan/Fall/PSY-101": 1,
     "Wesleyan/2025": 2,
     "Wesleyan/2025/Fall": 1,
-    "Wesleyan/2025/Fall/PSY-101": 1
+    "Wesleyan/2025/Fall/PSY-101": 1,
+    "EES-101": 428,
+    "Wesleyan/2025/Fall/EES-101": 2,
+    "Wesleyan/2025/Season": 2,
+    "Wesleyan/2025/Season/EES-101": 1,
+    "Wesleyan/2025/Season/EES-101/M1": 1,
+    "Wesleyan/2025/Season/EES-101/M1/W1": 1,
+    "EES": 429,
+    "EES/EES-101": 1,
+    "EES/EES-101/M1": 1,
+    "EES/EES-101/M1/W1": 1,
+    "flashcard/EES-101": 2,
+    "flashcard/EES-101/Exam_1": 1,
+    "Wesleyan/2025/Spring": 3,
+    "Wesleyan/2025/Spring/PSY-101": 1,
+    "Wesleyan/2025/Spring/PSY-101/C1": 1,
+    "PSY-101/C1": 22
   },
   "_version": 3
 }
