@@ -42,5 +42,6 @@
   "obsidian-chartsview-plugin",
   "better-export-pdf",
   "customjs",
-  "daily-note-pinner"
+  "daily-note-pinner",
+  "obsidian-local-rest-api"
 ]

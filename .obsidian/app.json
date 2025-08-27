@@ -2,7 +2,7 @@
   "vimMode": false,
   "propertiesInDocument": "hidden",
   "showUnsupportedFiles": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./Attachments",
   "uriCallbacks": true,
@@ -11,7 +11,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100 
+    "downscalePercent": 100
   },
   "showInlineTitle": false,
   "useTab": true,
