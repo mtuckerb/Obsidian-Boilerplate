@@ -70,7 +70,7 @@ const processDueDates = ( courseId, cutOff = []) => {
   const table = dv.markdownTable(
           ["Due Date", "Task Description", "File"],
           allEntries
-            .sort((a, b) => moment(a[-1]) - moment(b[0]))
+            .sort((a, b) => moment(b[0]) - moment(a[0])) 
             .map((a) => [a[0], a[2], a[3]])
         )
       dv.el("table", table)
