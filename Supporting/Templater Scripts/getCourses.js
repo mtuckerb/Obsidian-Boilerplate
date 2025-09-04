@@ -15,7 +15,7 @@ const getFrontmatterMatchingTag =  async (app, tag) => {
 
 const getCourses = async (tp, year, season) => {
   const app = tp.app
-  const courses = await getFrontmatterMatchingTag(app, "course_home")
+  const courses = await getFrontmatterMatchingTag(app, "#course_home")
   let courseMatches = []
   if (year) {
     courseMatches = courses.filter((course) =>
